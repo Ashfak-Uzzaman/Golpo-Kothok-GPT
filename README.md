@@ -157,6 +157,8 @@ Your story content here...
        checkpoint_file
    )
    ```
+### Download Checkpoint (.pt)  
+https://drive.google.com/file/d/1gBjEX20bWNsB-RHoAqyjHXLc4SHDliZL/view?usp=sharing  
 
 ### Text Generation
 
